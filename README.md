@@ -49,9 +49,9 @@ While conducting competitions for Othello, opening positions are generated follo
 
 ## Example
 
-<img src="H:\投稿论文\ICML\PCZero\PCZero\Picture\Hex.gif" alt="Hex" style="zoom:33%;" />
+<img src=".\Picture\Hex.gif" alt="Hex" style="zoom:33%;" />
 
-<img src="H:\投稿论文\ICML\PCZero\PCZero\Picture\Othello.gif" alt="Othello" style="zoom:50%;" />
+<img src=".\Picture\Othello.gif" alt="Othello" style="zoom:50%;" />
 
 ## Results
 
