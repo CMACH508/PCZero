@@ -1,8 +1,6 @@
 # Efficient Learning for AlphaZero via Path Consistency (ICML 2022)
 
-This is open-source codebase for PCZero, from "Efficient Learning for AlphaZero via Path Consistency" at ICML 2022. You can find our poster 
-
-[here]:https://github.com/CMACH508/PCZero/Picture/poster.pdf to get a quick overview of our work.
+This is open-source codebase for PCZero, from "Efficient Learning for AlphaZero via Path Consistency" at ICML 2022. You can find our poster here (<https://github.com/CMACH508/PCZero/blob/main/Picture/poster.pdf>) to get a quick overview of our work.
 
 ## Description
 
